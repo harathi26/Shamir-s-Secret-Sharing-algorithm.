@@ -1,0 +1,14 @@
+Point 1: x = 1, y = 28735619723837 (decoded from base 10)
+Point 2: x = 2, y = 28659448714954 (decoded from base 16)
+Point 3: x = 3, y = 61053304268075 (decoded from base 12)
+Point 4: x = 4, y = 153701083693314 (decoded from base 11)
+Point 5: x = 5, y = 28659448715137 (decoded from base 16)
+Point 6: x = 6, y = 28735619654702 (decoded from base 10)
+Point 7: x = 7, y = 20198734551131 (decoded from base 14)
+Point 8: x = 8, y = 483710049934336 (decoded from base 9)
+Point 9: x = 9, y = 142724474347261 (decoded from base 8)
+Secret (constant term) for test case 2: 28735619654702.000000
+Checking for wrong points:
+Wrong point found: (7, 20198734551131)
+Wrong point found: (8, 483710049934336)
+Wrong point found: (9, 142724474347261)

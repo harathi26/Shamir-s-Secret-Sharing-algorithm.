@@ -1,0 +1,13 @@
+Output for Test Case 1:
+
+Secret (constant term) for test case 1: 3
+No wrong points were found.
+
+
+
+Output for Test Case 2:
+
+Secret (constant term) for test case 2: 28735619654702
+Wrong point found: (7, 20198734551131)
+Wrong point found: (8, 483710049934336)
+Wrong point found: (9, 142724474347261)
